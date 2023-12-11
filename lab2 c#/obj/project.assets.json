@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/antonabaluev/Desktop/институт/c#/c#.csproj",
+      "projectUniqueName": "/Users/antonabaluev/paradigm-labs/lab2 c#/c#.csproj",
       "projectName": "c#",
-      "projectPath": "/Users/antonabaluev/Desktop/институт/c#/c#.csproj",
+      "projectPath": "/Users/antonabaluev/paradigm-labs/lab2 c#/c#.csproj",
       "packagesPath": "/Users/antonabaluev/.nuget/packages/",
-      "outputPath": "/Users/antonabaluev/Desktop/институт/c#/obj/",
+      "outputPath": "/Users/antonabaluev/paradigm-labs/lab2 c#/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/antonabaluev/.nuget/NuGet/NuGet.Config"

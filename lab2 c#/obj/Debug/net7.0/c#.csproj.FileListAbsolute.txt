@@ -12,3 +12,17 @@
 /Users/antonabaluev/Desktop/институт/c#/obj/Debug/net7.0/c#.pdb
 /Users/antonabaluev/Desktop/институт/c#/obj/Debug/net7.0/c#.genruntimeconfig.cache
 /Users/antonabaluev/Desktop/институт/c#/obj/Debug/net7.0/ref/c#.dll
+/Users/antonabaluev/paradigm-labs/lab2 c#/bin/Debug/net7.0/c#
+/Users/antonabaluev/paradigm-labs/lab2 c#/bin/Debug/net7.0/c#.deps.json
+/Users/antonabaluev/paradigm-labs/lab2 c#/bin/Debug/net7.0/c#.runtimeconfig.json
+/Users/antonabaluev/paradigm-labs/lab2 c#/bin/Debug/net7.0/c#.dll
+/Users/antonabaluev/paradigm-labs/lab2 c#/bin/Debug/net7.0/c#.pdb
+/Users/antonabaluev/paradigm-labs/lab2 c#/obj/Debug/net7.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonabaluev/paradigm-labs/lab2 c#/obj/Debug/net7.0/c#.AssemblyInfoInputs.cache
+/Users/antonabaluev/paradigm-labs/lab2 c#/obj/Debug/net7.0/c#.AssemblyInfo.cs
+/Users/antonabaluev/paradigm-labs/lab2 c#/obj/Debug/net7.0/c#.csproj.CoreCompileInputs.cache
+/Users/antonabaluev/paradigm-labs/lab2 c#/obj/Debug/net7.0/c#.dll
+/Users/antonabaluev/paradigm-labs/lab2 c#/obj/Debug/net7.0/refint/c#.dll
+/Users/antonabaluev/paradigm-labs/lab2 c#/obj/Debug/net7.0/c#.pdb
+/Users/antonabaluev/paradigm-labs/lab2 c#/obj/Debug/net7.0/c#.genruntimeconfig.cache
+/Users/antonabaluev/paradigm-labs/lab2 c#/obj/Debug/net7.0/ref/c#.dll
